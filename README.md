@@ -4,9 +4,9 @@ Bu proje, sporcuların antrenmanlarını ve ilerlemelerini takip etmelerine yard
 
 # Özellikler
 
-Sporcu bilgilerini ve antrenman detaylarını kaydetme
-Kaydedilen antrenmanları listeleme
-İlerleme kayıtlarını tutma ve görüntüleme
+Sporcu bilgilerini ve antrenman detaylarını kaydetme.
+Kaydedilen antrenmanları listeleme.
+İlerleme kayıtlarını tutma ve görüntüleme.
 
 <img width="295" alt="Screenshot 2024-04-29 at 20 14 32" src="https://github.com/NawidaAbdulHakim/Proje7/assets/162152692/f58ba783-27e5-4d38-9cee-758bcf942575">
 
