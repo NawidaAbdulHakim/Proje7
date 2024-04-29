@@ -11,7 +11,7 @@ Kaydedilen antrenmanları listeleme
 <img width="295" alt="Screenshot 2024-04-29 at 20 14 32" src="https://github.com/NawidaAbdulHakim/Proje7/assets/162152692/f58ba783-27e5-4d38-9cee-758bcf942575">
 
 
-#Kurulum
+# Kurulum
 
 Python 3 ve PyQt5 yüklü olmalıdır.
 Projeyi klonlayın:
