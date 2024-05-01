@@ -15,7 +15,7 @@ Kaydedilen antrenmanları listeleme.
 
 Python 3 ve PyQt5 yüklü olmalıdır.
 Projeyi klonlayın:
-git clone https://github.com/your_username/spor-takip-uygulamasi.git
+git clone https://github.com/NawidaAbdulHakim/spor-takip-uygulamasi.git
 Proje dizinine gidin:
 cd spor-takip-uygulamasi
 Uygulamayı çalıştırın:
