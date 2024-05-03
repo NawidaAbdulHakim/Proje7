@@ -8,7 +8,11 @@ Sporcu bilgilerini ve antrenman detaylarını kaydetme.
 Kaydedilen antrenmanları listeleme.
 İlerleme kayıtlarını tutma ve görüntüleme.
 
-<img width="295" alt="Screenshot 2024-04-29 at 20 14 32" src="https://github.com/NawidaAbdulHakim/Proje7/assets/162152692/f58ba783-27e5-4d38-9cee-758bcf942575">
+<img width="286" alt="Screenshot 2024-05-03 at 20 51 35" src="https://github.com/NawidaAbdulHakim/Proje7/assets/162152692/08c20160-b499-4ac4-9e07-fae1e86f0c33">
+
+
+<img width="277" alt="Screenshot 2024-05-03 at 21 29 46" src="https://github.com/NawidaAbdulHakim/Proje7/assets/162152692/6451531b-280d-4a92-a8ff-1698688fb662">
+
 
 
 # Kurulum
